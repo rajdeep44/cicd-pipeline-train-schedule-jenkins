@@ -15,3 +15,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 This should trigger the build automatically and you will see a build #2 on Jenkins.
+
+A minor modification should trigger the build.
